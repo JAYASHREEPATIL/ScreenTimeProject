@@ -35,8 +35,9 @@ ScreenTimeProject
 
 ```bash
 cd node-express-ts
-npm install
-npm start
+nvm use
+yarn
+yarn dev
 ```
 
 Backend runs at: 
